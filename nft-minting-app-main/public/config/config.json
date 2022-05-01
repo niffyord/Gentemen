@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc858c41d26b70d6e4cc76e6d55bc85090de669e0",
+  "SCAN_LINK": "https://scan.test.btcs.network/token/0xc858c41d26b70d6e4cc76e6d55bc85090de669e0",
+  "NETWORK": {
+    "NAME": "Satoshi chain Testnet",
+    "SYMBOL": "tBTCs",
+    "ID": 1115
+  },
+  "NFT_NAME": "Gentlemen",
+  "SYMBOL": "GTM",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
